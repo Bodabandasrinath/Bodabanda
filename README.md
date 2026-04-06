@@ -1,4 +1,4 @@
-# 👨‍💻 Srinath Arjun Bodabanda | AI/ML Engineer in the Making 🚀
+# 👨‍💻 Bodabanda Srinath | AI/ML Engineer in the Making 🚀
 
 Building intelligent systems for smart surveillance, automation & real-world impact
 
