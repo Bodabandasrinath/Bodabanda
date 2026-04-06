@@ -2,7 +2,6 @@
 
 Building intelligent systems for smart surveillance, automation & real-world impact
 
----
 
 ## 🔭 Currently working on
 
@@ -10,7 +9,6 @@ Building intelligent systems for smart surveillance, automation & real-world imp
 * **Smart ID Card System** – RFID/QR-based student tracking with real-time data integration
 * Exploring **Deep Learning models for real-world AI applications**
 
----
 
 ## 👯 Open to collaborating on
 
@@ -18,15 +16,12 @@ Building intelligent systems for smart surveillance, automation & real-world imp
 * Real-world **automation systems using Python & AI**
 * Open-source projects involving **Machine Learning & Backend Integration**
 
----
 
 ## 🤝 Looking for mentorship/help with
 
 * Model optimization & real-world deployment
 * Designing **scalable AI systems**
 * Advanced **Deep Learning & Computer Vision (YOLO, CNNs)**
-
----
 
 ## 🌱 Currently strengthening
 
@@ -35,7 +30,6 @@ Building intelligent systems for smart surveillance, automation & real-world imp
 * Mathematics for ML (Statistics, Probability, Linear Algebra)
 * Backend + AI integration (Firebase, APIs)
 
----
 
 ## 💬 Ask me about
 
@@ -50,15 +44,13 @@ Building intelligent systems for smart surveillance, automation & real-world imp
 
 I believe **“AI is not magic, it's Math + Logic + Practice”** 🚀
 
----
 
 ## 🌐 Connect with Me
+## 🌐 Connect with Me  
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 🌍 Portfolio: (Add if available)
+- 📧 Email: your-srinatharjun1@gmail.com
+- 💼 LinkedIn: vwww.linkedin.com/in/bodabanda-srinath-2018cs 
 
----
 
 ## 💻 Tech Stack
 
@@ -67,7 +59,6 @@ I believe **“AI is not magic, it's Math + Logic + Practice”** 🚀
 **Backend & DB:** Firebase, MySQL
 **Tools:** Git, GitHub, VS Code
 
----
 
 ## 📊 GitHub Stats
 
